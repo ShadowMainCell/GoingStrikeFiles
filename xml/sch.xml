@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="0" y="23" width="1920" height="1017" id="19" title="Going Strike - GameMaker" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Рабочее место 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[3152, 2440]" workspace_scale="1" />
+		</Workspaces>
+		<Dock state="Expanded" type="eRight" restore_size="305dpi_px" active_tab="0">
+			<DockTab localise_title="AssetBrowser_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="1cbb519b-373a-485b-89bf-1a966f7f6d1a">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="1715px" right="" top="315px" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Браузер актива" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+	<Modules>
+		<YoYoStudio.Plugins.MiscPlugins.DnD.DnDModule>
+			<LivePreviews />
+		</YoYoStudio.Plugins.MiscPlugins.DnD.DnDModule>
+	</Modules>
+</Project>
